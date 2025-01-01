@@ -1,5 +1,3 @@
-### Hey, I'm Adam
+# Hi, I'm Adam 👋
 
-- ❤️ I'm into .NET, open-source, AI Agentic Workflow and movies
-- 🍂 I'm the author and maintainer of the open-source project [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler)
-- 🙋 You can hire me if your product is about MS Office format processing, especially PowerPoint
+I'm a software engineer who is passionate in spare time about making contributing to open-source. [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) is my main open-source project that I've been developing for over 5 years now.
