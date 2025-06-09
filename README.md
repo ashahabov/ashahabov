@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I’m a software developer who loves exploring new
 ## Technologies & Interests
 - **Languages:** C#
 - **Frameworks/Libraries:** Semantic Kernel, Open XML SDK
-- **Databases:** Microsoft SQL Server
 - **Tools/Platforms:** Azure, GitHub Actions
-- **Focus Areas:** Open XML, OOP, Multi-Agent system
+- **Focus Areas:** Open XML, LLM, MCP, OOP
 
 ## GitHub Stats
 ![ashahabov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashahabov&show_icons=true&theme=tokyonight)
