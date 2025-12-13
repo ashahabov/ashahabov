@@ -1,19 +1,18 @@
 # Hello there, I'm Adam! 👋
 
-Welcome to my GitHub profile! I’m a software developer who loves exploring new technologies and creating efficient, scalable solutions.
+I'm a software engineer (15+ years) specializing in C#/.NET and document automation — especially Open XML formats: PowerPoint, Word, Excel, etc.
 
 ## About Me
-- 🔭 I’m currently working at [Templafy](https://www.templafy.com) where we do Document Automation leveraging AI.
-- 🌱 I’m honing my skills in LLM-based application.
-- 💬 I enjoy discussing best practices in software engineering.
-- ⚡ In my free time, I like experimenting with new frameworks and open-source tools. [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) is my pet project.
+- 🧠 I’m honing my skills in LLM-based application, prompt engineering and context engineering.
+- 🧩 In my free time, I like experimenting with new frameworks and open-source tools. [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) is my pet project.
+- 📺 Talk about AI on my YouTube channel: https://www.youtube.com/@AShahabov
 - 📫 You can reach me via theadamo86@gmail.com or social media (links below).
 
 ## Technologies & Interests
 - **Languages:** C#
-- **Frameworks/Libraries:** Semantic Kernel, Open XML SDK
-- **Tools/Platforms:** Azure, GitHub Actions
-- **Focus Areas:** Open XML, LLM, MCP, OOP
+- **Frameworks/Libraries:** Open XML SDK, SkiaSharp
+- **Tools/Platforms:** GitHub, Rider, Cursor, ChatGPT, Gemini, NotebookLM 
+- **Focus Areas:** Open XML, Prompt Engineering, Context Engineering, LLM, MCP, Testing
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/ashahabov)
