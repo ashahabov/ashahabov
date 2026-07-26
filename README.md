@@ -1,15 +1,22 @@
-# Hello there, I'm Adam! 👋
+# Hi, I'm Adam Shakhabov 👋
 
-I'm a software engineer (15+ years) specializing in document automation.
+I'm a software engineer building AI-assisted document automation systems.
 
-## About Me
-- 🧠 I’m honing my skills in AI agentic application. Talk about AI on my YouTube channel: [youtube.com/@AdamShakhabov](youtube.com/@AdamShakhabov)
-- 🧩 In my free time, I like experimenting with new frameworks and open-source tools. [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) is my pet project.
-- 📫 You can reach me via theadamo86@gmail.com.
+I have 15+ years of experience in software development, with deep expertise in C#/.NET, Open XML, PowerPoint automation, and document processing.
 
-## Technologies & Interests
-- **Languages:** C#
-- **Tools/Platforms:** ChatGPT/Codex, Cursor, Gemini Notebook, Rider, GitHub
-- **Focus Areas:** Context Engineering, LLM, MCP
+## What I do
+* 🧩 Creator and maintainer of [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler), an open-source .NET library for creating, reading, and modifying PowerPoint presentations without Microsoft Office.
+* 🤖 Build and experiment with agentic AI applications, MCP servers, AI connectors, and context engineering.
+* ⚡ Use AI coding agents such as Codex and Cursor as part of my daily engineering workflow.
+* 📄 Develop systems for document generation, conversion, processing, and automation.
+* 🎥 Publish practical videos about AI agents, MCP, AI-assisted development, and software engineering on [YouTube](https://www.youtube.com/@AdamShakhabov).
 
-Thanks for stopping by! Feel free to explore my repositories and projects.
+## Areas of expertise
+`Document Automation` · `Agentic AI` · `MCP` · `Context Engineering` · `C#` · `.NET` · `Open XML SDK` · `PowerPoint`
+
+## Current focus
+I'm exploring how AI agents can reliably use tools, generate documents, and automate complex software workflows.
+
+## Get in touch
+* YouTube: [Adam Shakhabov](https://www.youtube.com/@AdamShakhabov)
+* Email: [theadamo86@gmail.com](mailto:theadamo86@gmail.com)
