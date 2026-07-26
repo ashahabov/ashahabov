@@ -1,20 +1,15 @@
 # Hello there, I'm Adam! 👋
 
-I'm a software engineer (15+ years) specializing in C#/.NET and document automation — especially Open XML formats: PowerPoint, Word, Excel, etc.
+I'm a software engineer (15+ years) specializing in document automation.
 
 ## About Me
-- 🧠 I’m honing my skills in LLM-based application, prompt engineering and context engineering.
+- 🧠 I’m honing my skills in AI agentic application. Talk about AI on my YouTube channel: youtube.com/@AdamShakhabov
 - 🧩 In my free time, I like experimenting with new frameworks and open-source tools. [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) is my pet project.
-- 📺 Talk about AI on my YouTube channel: https://www.youtube.com/@AShahabov
-- 📫 You can reach me via theadamo86@gmail.com or social media (links below).
+- 📫 You can reach me via theadamo86@gmail.com.
 
 ## Technologies & Interests
 - **Languages:** C#
-- **Frameworks/Libraries:** Open XML SDK, SkiaSharp
-- **Tools/Platforms:** GitHub, Rider, Cursor, ChatGPT, Gemini, NotebookLM 
-- **Focus Areas:** Open XML, Prompt Engineering, Context Engineering, LLM, MCP, Testing
-
-## Get in Touch
-- [LinkedIn](https://linkedin.com/in/ashahabov)
+- **Tools/Platforms:** ChatGPT/Codex, Cursor, Gemini Notebook, Rider, GitHub
+- **Focus Areas:** Context Engineering, LLM, MCP
 
 Thanks for stopping by! Feel free to explore my repositories and projects.
